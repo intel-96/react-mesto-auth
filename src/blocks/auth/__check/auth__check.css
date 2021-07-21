@@ -1,0 +1,14 @@
+.auth__check {
+    margin-top: 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 400;
+}
+
+.auth__check:hover {
+    opacity: 0.6;
+}
