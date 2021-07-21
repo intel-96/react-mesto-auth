@@ -190,7 +190,7 @@ function App() {
           />
           <ProtectedRoute
             component={Main}
-            path='/'
+            exact path='/'
             loggedIn={loggedIn}
             onEditProfile={handleEditProfileClick}
             onAddPlace={handleAddPlaceClick}
