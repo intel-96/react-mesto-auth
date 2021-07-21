@@ -1,0 +1,7 @@
+.cards__image-container {
+  max-width: 282px;
+  overflow: hidden;
+  max-height: 282px;
+  display: flex;
+  justify-content: center;
+}

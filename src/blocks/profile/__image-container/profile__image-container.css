@@ -1,0 +1,16 @@
+.profile__image-container {
+  position: relative;
+  width: 100%;
+  max-width: 120px;
+  max-height: 120px;
+}
+
+.profile__image-container:hover .profile__image {
+  transition: 0.3s ease;
+  opacity: 0.2;
+}
+
+.profile__image-container:hover .profile__edit-icon {
+  opacity: 1;
+  transition: 0.3s ease;
+}

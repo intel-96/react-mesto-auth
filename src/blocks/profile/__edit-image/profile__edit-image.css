@@ -1,0 +1,13 @@
+.profile__edit-image {
+  position: absolute;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+
+.profile__edit-image:hover {
+  opacity: 1;
+}
