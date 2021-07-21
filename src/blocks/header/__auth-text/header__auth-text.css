@@ -12,6 +12,6 @@
     margin-right: 0;
 }
 
-.header__auth-text:hover {
-    opacity: 0.6;
+.header__auth-text:hover:last-child {
+    opacity: 0.6; 
 }
